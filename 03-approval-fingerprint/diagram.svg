@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" width="560" height="440" font-family="Georgia, serif" role="img" aria-label="Approval fingerprint">
+<rect width="560" height="440" fill="#faf7f2"/>
+<text x="24" y="36" font-size="20" font-weight="bold" fill="#1f2a2a">Approval fingerprint</text>
+<rect x="24" y="58" width="512" height="64" rx="10" fill="#ffffff" stroke="#2f4f4f" stroke-width="1.5"/>
+<text x="44" y="85" font-size="16" font-weight="bold" fill="#1f2a2a">Approver</text>
+<text x="44" y="107" font-size="15" fill="#3b4a4a">says yes to caption + images</text>
+<path d="M280 126 L280 150" stroke="#2f4f4f" stroke-width="1.5"/>
+<path d="M274 144 L280 152 L286 144" fill="none" stroke="#2f4f4f" stroke-width="1.5"/>
+<rect x="24" y="156" width="512" height="64" rx="10" fill="#ffffff" stroke="#2f4f4f" stroke-width="1.5"/>
+<text x="44" y="183" font-size="16" font-weight="bold" fill="#1f2a2a">fingerprint</text>
+<text x="44" y="205" font-size="15" fill="#3b4a4a">sha256 of the exact bytes</text>
+<path d="M280 224 L280 248" stroke="#2f4f4f" stroke-width="1.5"/>
+<path d="M274 242 L280 250 L286 242" fill="none" stroke="#2f4f4f" stroke-width="1.5"/>
+<rect x="24" y="254" width="512" height="64" rx="10" fill="#ffffff" stroke="#2f4f4f" stroke-width="1.5"/>
+<text x="44" y="281" font-size="16" font-weight="bold" fill="#1f2a2a">Before posting</text>
+<text x="44" y="303" font-size="15" fill="#3b4a4a">fingerprint again</text>
+<path d="M280 322 L280 346" stroke="#2f4f4f" stroke-width="1.5"/>
+<path d="M274 340 L280 348 L286 340" fill="none" stroke="#2f4f4f" stroke-width="1.5"/>
+<rect x="24" y="352" width="512" height="64" rx="10" fill="#ffffff" stroke="#2f4f4f" stroke-width="1.5"/>
+<text x="44" y="379" font-size="16" font-weight="bold" fill="#1f2a2a">Match</text>
+<text x="44" y="401" font-size="15" fill="#3b4a4a">post; no match, ask again</text>
+</svg>
